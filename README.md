@@ -1,4 +1,4 @@
-[![Gitter chat](https://badges.gitter.im/andreis/interview.png)](https://gitter.im/andreis/interview)
+<!--[![Gitter chat](https://badges.gitter.im/andreis/interview.png)](https://gitter.im/andreis/interview)-->
 
 ### Contents
 
@@ -20,7 +20,7 @@
 
 ## Articles
 
-Recommended: Steve Yegge – **Get That Job at Google** [[web][a_sy]]
+* Recommended: Steve Yegge – **Get That Job at Google** [[web][a_sy]]
 
 * Carlos Bueno – **Get That Job at Facebook** [[web][a_cb]]
 * Daniel Blumenthal – **How to Prepare for Technical Interviews** [[web][a_db3]]
@@ -43,7 +43,7 @@ Recommended: Steve Yegge – **Get That Job at Google** [[web][a_sy]]
 
 ## Algorithms
 
-Recommended: Steven Skiena – **The Algorithm Design Manual** [[Amazon][b_tadm_amzn]] [[pdf][b_tadm_pdf]] [[web][b_tadm_web]]
+* Recommended: Steven Skiena – **The Algorithm Design Manual** [[Amazon][b_tadm_amzn]] [[pdf][b_tadm_pdf]] [[web][b_tadm_web]]
 
 * Jon Bentley – **Programming Pearls** [[Amazon][b_pp_amzn]] [[web (full text)][b_pp_web]]
 * Cormen, Leiserson, Rivest, Stein – **Introduction to Algorithms** [[Amazon][b_clrs_amzn]] [[pdf][b_clrs_pdf]]
@@ -67,7 +67,7 @@ Please support the authors by buying the books.
 
 ## Coding
 
-Recommended: **Talentbuddy** [[web][c_tb]] [[free app][c_tb_app]]
+* Recommended: **Udemy** [[web][c_tb]] [[free app][c_tb_app]]
 
 * **Coderust** (great selection of problems) [[$10 app][c_cr]]
 * **Hacker Rank** [[web][c_hr]]
@@ -92,7 +92,7 @@ Recommended: **Talentbuddy** [[web][c_tb]] [[free app][c_tb_app]]
 [c_itp]: http://www.infoarena.ro/training-path
 [c_p]: http://pineapple.io/
 [c_pe]: https://projecteuler.net/
-[c_tb]: http://www.talentbuddy.co/
+[c_tb]: https://www.udemy.com/
 [c_tb_app]: https://itunes.apple.com/us/app/talentbuddy/id845593905
 [c_tct]: http://www.topcoder.com/tc?d1=tutorials&d2=alg_index&module=Static
 [c-lc]: http://oj.leetcode.com/
@@ -100,9 +100,9 @@ Recommended: **Talentbuddy** [[web][c_tb]] [[free app][c_tb_app]]
 
 ## Guides
 
-Recommended (resume): Gayle McDowell –  **The Google Resume** [[Amazon][g_tgr_amzn]] [[pdf][g_tgr_pdf]]
+* Recommended (resume): Gayle McDowell –  **The Google Resume** [[Amazon][g_tgr_amzn]] [[pdf][g_tgr_pdf]]
 
-Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[Amazon][g_cci_amzn]] [[pdf][g_cci_pdf]]
+* Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[Amazon][g_cci_amzn]] [[pdf][g_cci_pdf]]
 
 * **CareerCup** [[web][g_cc]]
 * **Coding for Interviews** [[web][g_cfi]]
@@ -144,7 +144,7 @@ Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[
 
 ## Maths
 
-Recommended: MIT - **Mathematics for Computer Science** [[Youtube][m_mit_yt]] [[web][m_mit_web]]
+* Recommended: MIT - **Mathematics for Computer Science** [[Youtube][m_mit_yt]] [[web][m_mit_web]]
 
 * Graham, Knuth, Patashnik – **Concrete Mathematics: A Foundation for Computer Science** [[Amazon][m_cm_amzn]] [[pdf][m_cm_pdf]]
 
@@ -167,7 +167,7 @@ Recommended: MIT - **Mathematics for Computer Science** [[Youtube][m_mit_yt]] [[
 
 ## Questions
 
-Recommended: MIT – **Hacking a Google Interview** [[web][q_hgi]]
+* Recommended: MIT – **Hacking a Google Interview** [[web][q_hgi]]
 
 * **Computer Science Primer / Interview Questions** [[web][q_csp]]
 * **Programming Interview Questions** [[web][q_piq]]
@@ -201,7 +201,7 @@ Recommended: MIT – **Hacking a Google Interview** [[web][q_hgi]]
 
 ## Videos
 
-Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]]
+* Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]]
 
 * Gayle McDowell – **Cracking the Coding Interview** [[Youtube][v_cci]]
 * Gayle McDowell - **Cracking the Coding Interview (examples)** [[one][v_cci2]] [[two][v_cci3]]
