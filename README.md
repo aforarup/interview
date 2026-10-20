@@ -130,6 +130,7 @@ Please support the authors by buying the books.
 * [What is the best advice for an engineering internship interview at Google or Facebook?](https://www.quora.com/What-is-the-best-advice-for-an-engineering-internship-interview-at-Google-or-Facebook)
 * [What graph topics should I study in order to be adequately prepared for a Google Software Engineer interview?](https://www.quora.com/Google-Interview-Questions/What-graph-topics-should-I-study-in-order-to-be-adequately-prepared-for-a-Google-Software-Engineer-interview)
 * [InterviewLegend](https://interviewlegend.com) - company-specific coding, system design, and behavioral interview guides built from first-hand reports
+* [STAR Answer Checker](https://roundrehearsal.com/tools/star-answer-checker?utm_source=github-aforarup-interview&utm_medium=listing&utm_campaign=free-tools-oct) - free browser tool that checks a behavioral interview answer for Situation, Task, Action and Result, spoken length, and filler words
 
 
 ## Language-specific
