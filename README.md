@@ -104,6 +104,7 @@ Please support the authors by buying the books.
 
 * Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[Amazon][g_cci_amzn]] [[pdf][g_cci_pdf]]
 
+* **Aethel interview practice** (free, type your answers, no account) [[web][g_aet]]
 * **Coddy interview problems** (run in the browser) [[web][g_cdy]]
 * **Coding for Interviews** [[web][g_cfi]]
 * **Here's How to Prepare for Tech Interviews** [[reddit][g_rd]]
@@ -111,6 +112,7 @@ Please support the authors by buying the books.
 * **Elements of Programming Interviews** [[Amazon][g_epibook]] [[web][g_epiweb]] 
 * Mina Azib – **Resources for Preparing for the Google Interview** [[web][g_ma]]
 
+[g_aet]: https://aethel.pro/practice
 [g_cdy]: https://coddy.tech/problems
 [g_cci_amzn]: http://www.amazon.com/dp/098478280X
 [g_cci_pdf]: https://www.google.com/search?q=cracking+the+coding+interview+pdf
